@@ -32,4 +32,4 @@ Sou estudante de **Engenharia de Software**, autodidata, apaixonado por tecnolog
 
 ### 💡 Curiosidade
 
-Comecei mexendo em tutoriais aleatórios na internet sem saber muito bem pra onde ia — hoje já sei que quero trabalhar com dados. No meio do caminho, viraram hobbies: Minecraft, mangás/animes e sempre uma ideia nova de projeto.
+Comecei assistindo tutoriais aleatórios na internet sem saber muito bem pra onde ia — hoje já sei que quero trabalhar com dados ou Backend. No meio do caminho, viraram hobbies: Minecraft, mangás/animes e sempre uma ideia nova de projeto.
