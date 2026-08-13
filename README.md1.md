@@ -8,7 +8,7 @@
 Sou estudante de **Engenharia de Software**, autodidata, apaixonado por tecnologia desde sempre e, atualmente, focado em construir uma carreira sólida em **Data Engineering** e **Backend**. Aqui você vai encontrar meus estudos, projetos e experimentos — do "Hello World" até coisas um pouco mais sérias.
 ---
 
-### 🎯 No que estou focado agora
+### 🎯 Estou focado agora
 
 - ☕ **Java** de ponta a ponta — Programação Orientada a Objetos, lógica e algoritmos
 - 🧱 Construindo portfólio com **SQL, Airflow e dbt**
